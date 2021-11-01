@@ -1,11 +1,11 @@
 {
   "basic_info": {
     "name": "Kevin Stone",
-    "titles": ["Software Developer"],
+    "titles": ["Software Builder"],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/kevin-c-stone",
+        "url": "https://github.com/kevin-c-stone/kevin-c-stone",
         "class": "fab fa-github"
       },
       {

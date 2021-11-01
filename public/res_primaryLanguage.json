@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Kevin Stone. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 Hi, my name is Kevin Stone, I am a United States Navy Veteran with a secret clearance. While serving in the US Navy I worked as an Aviation Electronics Technician in the first half of my career, fixing RADAR equipment for F-18 jets, and for the second half, I moved into a more supervisory role. While in the Navy I got to hone my troubleshooting skills, leadership skills, and team management skills along with an assortment of other skills. At the tail end of my career in the Navy I was allowed to take a Microsoft Software and Systems Administration course that gave me a technical understanding of how the Azure Cloud works from a systems administration side. Although I enjoyed the class, I found myself enjoying writing scripts more than building out just virtual machines and networks. After diving more into what software engineers did I figured this would be the perfect role for me. The fact that I get to solve real world problems with code is the most rewarding thing. Software engineering allows me to think about problems and try and solve them through applications and I don't think there is anything cooler I could be doing with my time. If I had an ideal environment to use these new skills it would be in building systems that help make companies more efficient and more sustainable in the long run.  Also, building applications that can help solve a problem not only for businesses but everyday people would be a very rewarding way to use my new coding skills. My previous experience in the military gives me a leg up on the competition. Being able to work in teams with a high level of stress is something you do everyday on the job in the military. Knowing that lives are at stake when you are doing your job, these are just normal conditions in the military that will set me up for greater success in a coding environment.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -42,7 +42,7 @@
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/kevin-c-stone",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -62,7 +62,7 @@
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/kevin-c-stone",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
