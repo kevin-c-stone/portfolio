@@ -5,13 +5,13 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/kevin-c-stone",
         "class": "fab fa-github"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "url": "https://twitter.com/kevinseestone",
+        "class": "fab fa-twitter"
       }
     ],
     "image": "myProfile.jpg"

@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Welcome to my portfolio!
 
-Make it your own! 
+Here I will be showing you what I am working on, what I have accomplished, and where I hope to go.
